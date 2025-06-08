@@ -21,4 +21,4 @@ WORKDIR /app
 # COPY . /app
 
 # Default to Python shell
-CMD ["python"]
+CMD ["bash"]
