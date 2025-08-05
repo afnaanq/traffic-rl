@@ -1,9 +1,9 @@
-# Traffic_RL2
+# Traffic_RL
 **Reinforcement Learning for Intelligent Traffic Signal Control**
 
 ## Overview
 
-Traffic_RL2 implements a Deep Q-Network (DQN) based solution to optimize traffic signal timing in a simulated city intersection. The system outperforms traditional static and demand-based approaches by adapting in real time to congestion levels using reinforcement learning.
+This project implements a Deep Q-Network (DQN) based solution to optimize traffic signal timing in a simulated city intersection. The system outperforms traditional static and demand-based approaches by adapting in real time to congestion levels using reinforcement learning.
 
 This project was built using:
 - PyTorch for DQN implementation
